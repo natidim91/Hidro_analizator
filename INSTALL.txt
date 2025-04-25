@@ -1,0 +1,7 @@
+# Installation Instructions:
+
+Download and install Arduino IDE (if you haven't already) from https://www.arduino.cc/en/software.
+Connect the Arduino Uno to your computer.
+Upload the sketch 374.ino to the Arduino board using the Arduino IDE.
+Connect the humidity sensor to the appropriate pin.
+Run the project and monitor the humidity.
